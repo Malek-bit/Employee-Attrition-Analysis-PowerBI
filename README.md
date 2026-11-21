@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that explores **who leaves a company, why, and what HR can do about it**. It was built as a college project and looks at attrition through tenure, age, income, work-life factors, satisfaction levels and promotion history.
 
-![Who Leaves & Why](images/01-who-leaves-and-why.png)
+![Who Leaves & Why](01-who-leaves-and-why.png)
 
 ---
 
@@ -19,7 +19,7 @@ Employee turnover is costly: it means recruiting and training expenses, lost kno
 
 ## 📊 Dataset
 
-- **File:** [`data/WA_Fn-UseC_-HR-Employee-Attrition.csv`](data/WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- **File:** [`data/WA_Fn-UseC_-HR-Employee-Attrition.csv`](WA_Fn-UseC_-HR-Employee-Attrition.csv)
 - **Size:** 1,470 employees × 35 columns, with no missing values
 - **Target:** `Attrition` (Yes / No), which is **16.1%** Yes (237 employees)
 - **Includes:** age, gender, marital status, education, department, job role and level, monthly income, overtime, distance from home, years at company, years in role, years since last promotion, years with current manager, and satisfaction scores (job, environment, relationship, work-life balance).
@@ -44,22 +44,22 @@ Employee turnover is costly: it means recruiting and training expenses, lost kno
 ### 1. Who Leaves & Why?
 The main page. It shows the overall attrition rate on a gauge, and attrition by **tenure group**, **age** and **distance from home**. Slicers for overtime, age generation, education and gender let you filter the whole page.
 
-![Who Leaves & Why](images/01-who-leaves-and-why.png)
+![Who Leaves & Why](01-who-leaves-and-why.png)
 
 ### 2. Employees Life Work
 Looks at the employee's working life: attrition by tenure and monthly income, by years with the current manager, by department and education, and the average years at the company, in the current role, with the current manager, and since the last promotion.
 
-![Employees Life Work](images/02-employees-life-work.png)
+![Employees Life Work](02-employees-life-work.png)
 
 ### 3. Employees Satisfaction
 Explores how satisfaction affects attrition: job satisfaction, environment satisfaction, relationship satisfaction, work-life balance and marital status.
 
-![Employees Satisfaction](images/03-employees-satisfaction.png)
+![Employees Satisfaction](03-employees-satisfaction.png)
 
 ### 4. Some Major Solutions
 Highlights the areas where action would have the biggest effect: overtime by department, work-life balance and relationship satisfaction, and job level against time since last promotion.
 
-![Major Solutions](images/04-major-solutions.png)
+![Major Solutions](04-major-solutions.png)
 
 ---
 
@@ -127,7 +127,7 @@ Highlights the areas where action would have the biggest effect: overtime by dep
 ## 👤 Author
 
 **Abdelmalek**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: _add your link_
+- GitHub: [@Malek-bit](https://github.com/Malek-bit)
+- LinkedIn: https://www.linkedin.com/in/abdelmalek-mamdouh-2578b128a/
 
 ⭐ If you found this project useful, feel free to star the repo!
